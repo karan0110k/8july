@@ -55,3 +55,83 @@
 </tr>
 </table>
 <p><h2>For Admission Refer<a href="page2.html">click here<//a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8juy
+
+
+
+<html>
+<head>
+<title>Information Page</title>
+</head>
+<body>
+<fieldset>
+<table border=2  bgcolor="pink" cellspacing="" cellpadding="">
+<form>
+<tr>
+<td>Name</td><td><input type="text"<br></td>
+</tr> 
+<tr>
+<td>Father Name</td><td><input type="text"<br></td>
+</tr> 
+<tr>
+<td>Mother Name</td><td><input type="text"<br></td>
+</tr>
+<tr>
+<td>D.O.B.</td><td><input type="date"<br></td>
+</tr> 
+<tr>
+<td>P.NO.</td><td><input type="number"<br></td>
+</tr>
+<tr>
+<td>All India Rank</td><td><input type="number"<br></td>
+</tr>
+<tr>
+<td>Gender</td><td><input type="radio" name="r1"
+<input type="radio" name="r1">Male
+<input type="radio" name="r1">Female
+<input type="radio" name="r1">Other</td>
+</tr>
+<tr>
+<td>B-Tech Course<select>
+<option>CSE</option>
+<option>ME</option>
+<option>CE</option>
+<option>IT</option>
+</select></tr></td><td><input type="radio" name="r1"
+<input type="radio" name="r1">Male
+<input type="radio" name="r1">Female
+<input type="radio" name="r1">Other</td>
+</tr>
+<tr>
+
+<tr>
+</td><td><input type="File">
+<input type="button" name="b1" value="click">
+</tr>
+
+
+
+</fieldset>
+</form>
+</table>
+</body>
+</html>
